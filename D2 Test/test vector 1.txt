@@ -1,0 +1,17 @@
+# Test Vector File
+<PinDef>
+A1,A2,Q1
+</PinDef>
+# oscillator oscillates (Q1=1) when A2=1, A1=1 
+<TestVector>
+	# A[0: ]  A[ : ]  Q[0: ]
+	1		1		1	
+	1		1		0
+	1		1		1
+	1		1		0
+	1		1		1
+	1		0		1		
+	1		0		1
+	0		X		0
+</TestVector>
+# End of the test vector file

@@ -1,0 +1,144 @@
+# Compile of test_TEAMAE_DESIGN.v was successful.
+# Compile of TEAMAE_DESIGN.v was successful.
+# Compile of d2lib.v was successful.
+# 3 compiles, 0 failed with no errors.
+# ** Error: Acs sdne.
+# 
+#        Unable to replace existing ini file (//filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/circuit1_test.mpf).  File can not be renamed.
+vsim -voptargs=+acc work.test_TEAMAE_DESIGN
+# vsim -voptargs="+acc" work.test_TEAMAE_DESIGN 
+# Start time: 16:20:10 on Apr 30,2021
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Warning: //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v(24): (vopt-2685) [TFMPC] - Too few port connections for 'DUT'.  Expected 46, found 2.
+# ** Warning: //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v(24): (vopt-2718) [TFMPC] - Missing connection for port 'Q22'.
+# ** Warning: //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v(24): (vopt-2718) [TFMPC] - Missing connection for port 'Q21'.
+# ** Warning: //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v(24): (vopt-2718) [TFMPC] - Missing connection for port 'Q20'.
+# ** Warning: //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v(24): (vopt-2718) [TFMPC] - Missing connection for port 'Q19'.
+# ** Warning: //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v(24): (vopt-2718) [TFMPC] - Missing connection for port 'Q18'.
+# ** Warning: //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v(24): (vopt-2718) [TFMPC] - Missing connection for port 'Q17'.
+# ** Warning: //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v(24): (vopt-2718) [TFMPC] - Missing connection for port 'Q16'.
+# ** Warning: //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v(24): (vopt-2718) [TFMPC] - Missing connection for port 'Q15'.
+# ** Warning: //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v(24): (vopt-2718) [TFMPC] - Missing connection for port 'Q14'.
+# ** Warning: //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v(24): (vopt-2718) [TFMPC] - Missing connection for port 'Q13'.
+# ** Warning: //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v(24): (vopt-2718) [TFMPC] - Missing connection for port 'Q12'.
+# ** Warning: //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v(24): (vopt-2718) [TFMPC] - Missing connection for port 'Q11'.
+# ** Warning: //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v(24): (vopt-2718) [TFMPC] - Missing connection for port 'Q10'.
+# ** Warning: //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v(24): (vopt-2718) [TFMPC] - Missing connection for port 'Q9'.
+# ** Warning: //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v(24): (vopt-2718) [TFMPC] - Missing connection for port 'Q8'.
+# ** Warning: //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v(24): (vopt-2718) [TFMPC] - Missing connection for port 'Q7'.
+# ** Warning: //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v(24): (vopt-2718) [TFMPC] - Missing connection for port 'Q6'.
+# ** Warning: //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v(24): (vopt-2718) [TFMPC] - Missing connection for port 'Q5'.
+# ** Warning: //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v(24): (vopt-2718) [TFMPC] - Missing connection for port 'Q4'.
+# ** Warning: //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v(24): (vopt-2718) [TFMPC] - Missing connection for port 'Q3'.
+# ** Warning: //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v(24): (vopt-2718) [TFMPC] - Missing connection for port 'Q2'.
+# ** Warning: //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v(24): (vopt-2718) [TFMPC] - Missing connection for port 'Q1'.
+# ** Warning: //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v(24): (vopt-2718) [TFMPC] - Missing connection for port 'A22'.
+# ** Warning: //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v(24): (vopt-2718) [TFMPC] - Missing connection for port 'A21'.
+# ** Warning: //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v(24): (vopt-2718) [TFMPC] - Missing connection for port 'A20'.
+# ** Warning: //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v(24): (vopt-2718) [TFMPC] - Missing connection for port 'A19'.
+# ** Warning: //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v(24): (vopt-2718) [TFMPC] - Missing connection for port 'A18'.
+# ** Warning: //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v(24): (vopt-2718) [TFMPC] - Missing connection for port 'A17'.
+# ** Warning: //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v(24): (vopt-2718) [TFMPC] - Missing connection for port 'A16'.
+# ** Warning: //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v(24): (vopt-2718) [TFMPC] - Missing connection for port 'A15'.
+# ** Warning: //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v(24): (vopt-2718) [TFMPC] - Missing connection for port 'A14'.
+# ** Warning: //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v(24): (vopt-2718) [TFMPC] - Missing connection for port 'A13'.
+# ** Warning: //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v(24): (vopt-2718) [TFMPC] - Missing connection for port 'A12'.
+# ** Warning: //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v(24): (vopt-2718) [TFMPC] - Missing connection for port 'A11'.
+# ** Warning: //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v(24): (vopt-2718) [TFMPC] - Missing connection for port 'A10'.
+# ** Warning: //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v(24): (vopt-2718) [TFMPC] - Missing connection for port 'A9'.
+# ** Warning: //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v(24): (vopt-2718) [TFMPC] - Missing connection for port 'A8'.
+# ** Warning: //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v(24): (vopt-2718) [TFMPC] - Missing connection for port 'A7'.
+# ** Warning: //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v(24): (vopt-2718) [TFMPC] - Missing connection for port 'A6'.
+# ** Warning: //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v(24): (vopt-2718) [TFMPC] - Missing connection for port 'A5'.
+# ** Warning: //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v(24): (vopt-2718) [TFMPC] - Missing connection for port 'A4'.
+# ** Warning: //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v(24): (vopt-2718) [TFMPC] - Missing connection for port 'A3'.
+# ** Warning: //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v(24): (vopt-2718) [TFMPC] - Missing connection for port 'A2'.
+# ** Warning: //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v(24): (vopt-2718) [TFMPC] - Missing connection for port 'A1'.
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=0, Warnings=45.
+# Loading work.test_TEAMAE_DESIGN(fast)
+# Loading work.TEAMAE_DESIGN(fast)
+# Loading work.INV1(fast)
+# Loading work.TEAMAE_CIRCUIT_2(fast)
+# Loading work.BUF4(fast)
+# Loading work.DFFR(fast)
+# Loading work.NAND2(fast)
+# Loading work.TEAMAE_CIRCUIT_3(fast)
+# Loading work.NAND3(fast)
+# Loading work.NAND4(fast)
+# Loading work.NOR4(fast)
+# Loading work.TEAMAE_CIRCUIT_4_2(fast)
+# Loading work.NOR2(fast)
+# Loading work.NOR3(fast)
+# Loading work.TEAMAE_CIRCUIT_4_2_1(fast)
+# Loading work.TEAMAE_DIV_3(fast)
+add wave -position insertpoint  \
+sim:/test_TEAMAE_DESIGN/A0 \
+sim:/test_TEAMAE_DESIGN/Q0 \
+sim:/test_TEAMAE_DESIGN/errors_Q0 \
+sim:/test_TEAMAE_DESIGN/errors
+run
+# COMPILATION OK
+# Simulation Begins
+#   A  Q
+#   0  0
+#       
+# v 0  1
+#   0  x  @                    0 ns
+run -all
+#   0  1  @                    1 ns
+# r    1
+#       
+# 
+# v 1  0
+#   1  1  @                 1000 ns
+#   1  0  @                 1001 ns
+# r    0
+#       
+# 
+# v 1  0
+# r    0
+#       
+# 
+# v 0  1
+#   0  0  @                 3000 ns
+#   0  1  @                 3001 ns
+# r    1
+#       
+# 
+# v 0  1
+# r    1
+#       
+# 
+# v 0  1
+# r    1
+#       
+# 
+# v 1  0
+#   1  1  @                 6000 ns
+#   1  0  @                 6001 ns
+# r    0
+#       
+# 
+# v 0  1
+#   0  0  @                 7000 ns
+#   0  1  @                 7001 ns
+# r    1
+#       
+# 
+# v 1  0
+#   1  1  @                 8000 ns
+#   1  0  @                 8001 ns
+# r    0
+#       
+# 
+# v 0  1
+#   0  0  @                 9000 ns
+#   0  1  @                 9001 ns
+# r    1
+#       
+# 
+# SIMULATION OK
+# All vectors passed
+# ** Note: $stop    : //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v(100)
+#    Time: 10 us  Iteration: 0  Instance: /test_TEAMAE_DESIGN
+# Break in Module test_TEAMAE_DESIGN at //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v line 100

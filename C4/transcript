@@ -1,0 +1,23 @@
+# Compile of c4.sv was successful.
+# Compile of d_ff.sv was successful.
+# Compile of next_state.sv was successful.
+# Compile of output_reg.sv was successful.
+# Compile of scan_dff.sv was successful.
+# Compile of test_c4.sv was successful.
+# 6 compiles, 0 failed with no errors.
+vsim -voptargs=+acc work.test_c4
+# vsim -voptargs="+acc" work.test_c4 
+# Start time: 15:39:15 on Nov 16,2020
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading sv_std.std
+# Loading work.test_c4(fast)
+# Loading work.c4(fast)
+# Loading work.next_state(fast)
+# Loading work.output_reg(fast)
+# Loading work.scan_dff(fast)
+add wave -position insertpoint sim:/test_c4/*
+run -all
+# ** Note: $finish    : H:/c4/test_c4.sv(62)
+#    Time: 320 ns  Iteration: 0  Instance: /test_c4
+# 1
+# Break in Module test_c4 at H:/c4/test_c4.sv line 62

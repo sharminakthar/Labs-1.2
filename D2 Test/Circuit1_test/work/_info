@@ -1,0 +1,548 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.01, Jan 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/MentorGraphics/modeltech64_2020.1/examples
+T_opt
+!s110 1619796014
+V@_ifj:cMJYGz`IQ[BDLeQ3
+04 18 4 work test_TEAMAE_DESIGN fast 0
+=1-04d4c402f0a7-608c202b-37e-528
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;2020.1;71
+vBUF4
+Z1 !s110 1619795925
+!i10b 1
+!s100 4BJQSMHSS>HFf=8[bkJU`1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IQ8Jn=5oPBkPiE1Ua4gHca2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 d//filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test
+Z5 w1619795260
+Z6 8C:/Users/si3g19/Downloads/d2lib.v
+Z7 FC:/Users/si3g19/Downloads/d2lib.v
+!i122 2
+L0 34 6
+Z8 OL;L;2020.1;71
+r1
+!s85 0
+31
+Z9 !s108 1619795924.000000
+Z10 !s107 C:/Users/si3g19/Downloads/d2lib.v|
+Z11 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/si3g19/Downloads/d2lib.v|
+!i113 0
+Z12 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+n@b@u@f4
+vDFFR
+R1
+!i10b 1
+!s100 3_ee<k]3caTYU@IUGQ4a90
+R2
+I<0jU9KBEBRbLYRQW?_9Dd3
+R3
+R4
+R5
+R6
+R7
+!i122 2
+L0 135 29
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R0
+n@d@f@f@r
+vINV1
+R1
+!i10b 1
+!s100 obLNI_h^mh3z:2AD@7ZZO1
+R2
+Ie0cC6D<iX9Z1IcceKIfA50
+R3
+R4
+R5
+R6
+R7
+!i122 2
+L0 18 6
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R0
+n@i@n@v1
+vINV10
+R1
+!i10b 1
+!s100 Fj9NDL::lBD;DXO_NiXUN3
+R2
+IBVRRohIKKGZTLbR90A1Vf2
+R3
+R4
+R5
+R6
+R7
+!i122 2
+L0 26 6
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R0
+n@i@n@v10
+vMUX2
+R1
+!i10b 1
+!s100 kAc4195CG=8>ZhM9jcSf<3
+R2
+I4[T;cLM?d32?eTe^6]C212
+R3
+R4
+R5
+R6
+R7
+!i122 2
+L0 166 8
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R0
+n@m@u@x2
+vNAND2
+R1
+!i10b 1
+!s100 =70mgk^^?>bIeP7KOz]RW3
+R2
+Ie]Xz@Ig@eeZn3Q:iD@C851
+R3
+R4
+R5
+R6
+R7
+!i122 2
+L0 74 7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R0
+n@n@a@n@d2
+vNAND3
+R1
+!i10b 1
+!s100 [QIW?`2`hdeLWc6ZAg>`91
+R2
+I:[20DZMBTXGaHRmJ>FPnj1
+R3
+R4
+R5
+R6
+R7
+!i122 2
+L0 83 8
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R0
+n@n@a@n@d3
+vNAND4
+R1
+!i10b 1
+!s100 e6obzP<@N20Yo;@_91Rh51
+R2
+IOjk34:IG9JMf^hejSc0Lf1
+R3
+R4
+R5
+R6
+R7
+!i122 2
+L0 93 9
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R0
+n@n@a@n@d4
+vNOR2
+R1
+!i10b 1
+!s100 F7D=VdzbG6ZZ[=_ieH>1z1
+R2
+If:aAbizQJZ=k=0Vf3neKU3
+R3
+R4
+R5
+R6
+R7
+!i122 2
+L0 104 7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R0
+n@n@o@r2
+vNOR3
+R1
+!i10b 1
+!s100 a[oYFcZ;f3^Um<Cjl0lZz0
+R2
+IG7UaQTkaGX5CoSl_TSg>I2
+R3
+R4
+R5
+R6
+R7
+!i122 2
+L0 113 9
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R0
+n@n@o@r3
+vNOR4
+R1
+!i10b 1
+!s100 <4P3EOX28mWg;`>PJ7o5;2
+R2
+IMcbZTS`iZO^fEFe=dCQ`=3
+R3
+R4
+R5
+R6
+R7
+!i122 2
+L0 124 9
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R0
+n@n@o@r4
+vTEAMAE_CIRCUIT_2
+Z13 !s110 1619795924
+!i10b 1
+!s100 SPoJYQ1h2zWAH_FG4d7I23
+R2
+I1QkfBJ2O_MM^5LEzO5NYB0
+R3
+R4
+Z14 w1619795264
+Z15 8C:/Users/si3g19/Downloads/TEAMAE_DESIGN.v
+Z16 FC:/Users/si3g19/Downloads/TEAMAE_DESIGN.v
+!i122 1
+L0 13 119
+R8
+r1
+!s85 0
+31
+R9
+Z17 !s107 C:/Users/si3g19/Downloads/TEAMAE_DESIGN.v|
+Z18 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/si3g19/Downloads/TEAMAE_DESIGN.v|
+!i113 0
+R12
+R0
+n@t@e@a@m@a@e_@c@i@r@c@u@i@t_2
+vTEAMAE_CIRCUIT_3
+R13
+!i10b 1
+!s100 XILi60;J[A?kiKBoocZjJ1
+R2
+IUCAaUFeZbbSB_DSM`XjAM1
+R3
+R4
+R14
+R15
+R16
+!i122 1
+L0 134 180
+R8
+r1
+!s85 0
+31
+R9
+R17
+R18
+!i113 0
+R12
+R0
+n@t@e@a@m@a@e_@c@i@r@c@u@i@t_3
+vTEAMAE_CIRCUIT_4_2
+R13
+!i10b 1
+!s100 ]<gDll;6;QVW89Ghl^I3O0
+R2
+INFIRGGUPRA`aI7zg4NUaH1
+R3
+R4
+R14
+R15
+R16
+!i122 1
+L0 547 106
+R8
+r1
+!s85 0
+31
+R9
+R17
+R18
+!i113 0
+R12
+R0
+n@t@e@a@m@a@e_@c@i@r@c@u@i@t_4_2
+vTEAMAE_CIRCUIT_4_2_1
+R13
+!i10b 1
+!s100 Ln?>d2oK_:UdO374RgIb>3
+R2
+I7K:^TlmPkG5]X:]VmY4M^3
+R3
+R4
+R14
+R15
+R16
+!i122 1
+L0 352 193
+R8
+r1
+!s85 0
+31
+R9
+R17
+R18
+!i113 0
+R12
+R0
+n@t@e@a@m@a@e_@c@i@r@c@u@i@t_4_2_1
+vTEAMAE_DESIGN
+R13
+!i10b 1
+!s100 Ja7PDMUdBmW2BffGCae[V0
+R2
+I`6lP2oF1H>T>RIkkReCCY2
+R3
+R4
+R14
+R15
+R16
+!i122 1
+L0 655 125
+R8
+r1
+!s85 0
+31
+R9
+R17
+R18
+!i113 0
+R12
+R0
+n@t@e@a@m@a@e_@d@e@s@i@g@n
+vTEAMAE_DIV_3
+R13
+!i10b 1
+!s100 gfW=OkMEWlTZIMZB1AZGm1
+R2
+IcQ;UFhoQ2IFS4j9^XcbZE0
+R3
+R4
+R14
+R15
+R16
+!i122 1
+L0 316 34
+R8
+r1
+!s85 0
+31
+R9
+R17
+R18
+!i113 0
+R12
+R0
+n@t@e@a@m@a@e_@d@i@v_3
+vtest_TEAMAE_DESIGN
+R13
+!i10b 1
+!s100 KG=AaUe74]TBd[@0iKePR1
+R2
+I?GU0R2a[OaKZ<@XCL0[kl2
+R3
+R4
+w1619795761
+8//filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v
+F//filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v
+!i122 0
+L0 5 161
+R8
+r1
+!s85 0
+31
+!s108 1619795923.000000
+!s107 //filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|//filestore.soton.ac.uk/users/si3g19/mydocuments/D2/test vector/Circuit1_test/test_TEAMAE_DESIGN.v|
+!i113 0
+R12
+R0
+ntest_@t@e@a@m@a@e_@d@e@s@i@g@n
+vTIE0
+R1
+!i10b 1
+!s100 aN3k>>j3Oj]W7468A7mK91
+R2
+IegVho13U_D9GIVK<ZH4kM2
+R3
+R4
+R5
+R6
+R7
+!i122 2
+L0 42 5
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R0
+n@t@i@e0
+vTIE1
+R1
+!i10b 1
+!s100 ihjX4[7HElDTFS]DHboi30
+R2
+IeAPW[?Y?2bK?k0]kPPV8G2
+R3
+R4
+R5
+R6
+R7
+!i122 2
+L0 49 5
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R0
+n@t@i@e1
+vXNR2
+R1
+!i10b 1
+!s100 _1^Z5K^QdX2iiBBUAC[PV1
+R2
+Ig]VBcB0NDSO4CJ`_6_Tg21
+R3
+R4
+R5
+R6
+R7
+!i122 2
+L0 56 7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R0
+n@x@n@r2
+vXOR2
+R1
+!i10b 1
+!s100 L]lBW^I5Celk75aMmJZDc0
+R2
+I74CnLnz7mUN`T<^D6X<b33
+R3
+R4
+R5
+R6
+R7
+!i122 2
+L0 65 7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R0
+n@x@o@r2
